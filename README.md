@@ -100,5 +100,10 @@ Contribuições são bem-vindas! Para contribuir:
 5. Abra um Pull Request
 
 ## Contato
-Para mais informações, entre em contato via [GitHub](https://github.com/MiguelPoleto).
+
+Caso tenha dúvidas ou sugestões, entre em contato:
+- GitHub: [MiguelPoleto](https://github.com/MiguelPoleto)
+- LinkedIn: [miguelpoleto](https://www.linkedin.com/in/miguelpoleto/)
+- E-mail: *miguelpoleto5@gmail.com*
+- Instagram: [@miguelsantuchi](https://www.instagram.com/miguelsantuchi/)
 
