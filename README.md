@@ -15,6 +15,7 @@ O **Event Java** é um sistema de gerenciamento de eventos desenvolvido em Java,
 - **MySQL**
 - **JPA/Hibernate** (caso utilize)
 - **Maven/Gradle** (caso utilize para dependências)
+- **Postman** - Para testar as requisições da API
 
 ## Como Clonar e Configurar o Projeto
 
@@ -90,6 +91,9 @@ spring.jpa.hibernate.ddl-auto=update
   ```
 
 Caso seja uma aplicação Java standalone, execute a classe principal do projeto.
+
+### 5. Testando a API
+Para testar as requisições da API (GET, POST, PUT, DELETE), utilize uma ferramenta como o Postman ou cURL.
 
 ## Contribuição
 Contribuições são bem-vindas! Para contribuir:
